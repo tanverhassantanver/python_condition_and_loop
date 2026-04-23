@@ -4,16 +4,6 @@ This repository contains my Python practice programs covering loops, conditions,
 
 ---
 
-## 📂 Files
-
-- loops_practice.py → for loop, while loop, range, break, continue  
-- string_operations.py → string loop, slicing, reverse, split  
-- conditions_practice.py → even/odd, positive/negative, leap year, grading  
-- calculator.py → basic calculator using user input  
-- patterns.py → star patterns, pyramid, reverse patterns  
-
----
-
 ## 🚀 Topics Covered
 
 - For Loop  
